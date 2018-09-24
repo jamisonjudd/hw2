@@ -53,12 +53,12 @@
 	"PixelBandwidth": 540,
 	"DwellTime": 5.8e-06,
 	"ImageOrientationPatientDICOM": [
-		0.996308,
-		0.0234026,
-		-0.0825945,
-		0.0155354,
-		0.897087,
-		0.441582	],
+		0.995691,
+		0.0265014,
+		-0.0888681,
+		-0.0237263,
+		0.999202,
+		0.03214	],
 	"ConversionSoftware": "dcm2niix",
 	"ConversionSoftwareVersion": "v1.0.20180826 BETA  (JP2:OpenJPEG) GCC5.4.0"
 }
